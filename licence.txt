@@ -1,0 +1,7 @@
+MIT License
+
+Copyright (c) 2024 Savio AI
+
+Se otorga permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para utilizar el Software sin restricciones, incluyendo, pero no limitado a, los derechos a usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, y a permitir a las personas a las que se les proporcione el Software hacer lo mismo, sujeto a las siguientes condiciones:
+
+...
